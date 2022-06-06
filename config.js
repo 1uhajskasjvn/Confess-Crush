@@ -1,6 +1,6 @@
 const CONFIG = {
-    titleWeb: "Bạn yêu mình đúng ko",
-    introTitle: 'Tên người yêu bạn',
+    titleWeb: "Bạn có yêu mình đúng ko",
+    introTitle: 'Quỳnh Anh ',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
